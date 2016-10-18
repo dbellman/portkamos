@@ -22,7 +22,9 @@ Include Basic Screen Effects by Emily Short.
 
 The carrying capacity of the player is 3.
 
-[PLOT
+[This is all comments and will not appear in the final version
+
+PLOT
 - wake up at kezzas
 - escape zombies towards phentons house
 - take refuge with fenton (he has a chemical which keeps the zombies away and is working on a cure)
@@ -70,7 +72,7 @@ Places that need a use:
 -Croseus Club
 ]
 
-A floor is a kind of thing. Before putting something on a floor: try dropping the noun instead. A floor is always scenery. Instead of looking under a floor: say "Nice idea if you can figure out how." Understand "floor" or "ground" as a floor.
+A floor is a kind of thing. Before putting something on a floor: try dropping the noun instead. A floor is always scenery. Instead of looking under a floor: say "Nice idea if you can figure out how. Seems kind of... logistically challenging." Understand "floor" or "ground" as a floor.
 
 Some generic surroundings are backdrop. It is everywhere. Understand "walls" or "wall" or "ceiling" or "ground" or "area" or "room" or "here" as the generic surroundings. Understand "floor" or "floorboard" or "floorboards" as the generic surroundings when the location is not floored. Before putting something on the generic surroundings: try dropping the noun instead. Instead of examining the generic surroundings: say "You take another look around."; try looking. Instead of touching the generic surroundings: say "You encounter nothing extraordinary." Instead of touching the generic surroundings when in darkness: say "You try feeling your way around, but the space you are in is too large to allow you to navigate by touch."
 
